@@ -1,0 +1,22 @@
+.inputs{
+    padding: 15px 15px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.App{
+    align-items: center;
+    border: 10px solid black; 
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: purple;
+}
+.button-block{
+    display: flex;
+    border-width: 1px;
+    border-top: 10px;
+    margin-top: 10px;
+}
